@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dcdba79-dcd6-4997-b3c2-ee6c8d89e216" name="Default Changelist" comment="4.13 version: made small changes/correct typos" />
+    <list default="true" id="2dcdba79-dcd6-4997-b3c2-ee6c8d89e216" name="Default Changelist" comment="1.0 version">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -186,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1599221975902</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="1.0 version">
+      <created>1624012105229</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1624012105232</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,12 +219,26 @@
     <MESSAGE value="4.1 version: add original target extraction" />
     <MESSAGE value="4.11 version: made small changes" />
     <MESSAGE value="4.13 version: made small changes/correct typos" />
-    <option name="LAST_COMMIT_MESSAGE" value="4.13 version: made small changes/correct typos" />
+    <MESSAGE value="1.0 version" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0 version" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1624010914946">
-      <screen x="0" y="0" width="1280" height="800" />
+    <state x="149" y="30" key="SettingsEditor" timestamp="1624012278016">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="149" y="30" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1624012278016" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2" timestamp="1624012376839">
+      <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1624010914946" />
+    <state x="240" y="151" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1624012376839" />
+    <state x="436" y="320" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624012625288">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="436" y="320" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1280.729@0.23.1280.729" timestamp="1624012625288" />
+    <state x="420" y="301" key="git4idea.ui.GitResetDialog" timestamp="1624012335269">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="420" y="301" key="git4idea.ui.GitResetDialog/0.23.1280.729@0.23.1280.729" timestamp="1624012335269" />
   </component>
 </project>
