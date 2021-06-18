@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2dcdba79-dcd6-4997-b3c2-ee6c8d89e216" name="Default Changelist" comment="4.13 version: made small changes/correct typos" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Opi8Ob4dVjU52aOdK8aUW2rP6B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="EEG_fMRI" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="EEG_fMRI" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$USER_HOME$/Downloads" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="EEG_fMRI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="EEG_fMRI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2dcdba79-dcd6-4997-b3c2-ee6c8d89e216" name="Default Changelist" comment="" />
+      <created>1564680779294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564680779294</updated>
+      <workItem from="1564680781646" duration="1256000" />
+      <workItem from="1564734139216" duration="26487000" />
+      <workItem from="1568280611252" duration="1953000" />
+      <workItem from="1568292775138" duration="212000" />
+      <workItem from="1568301112360" duration="920000" />
+      <workItem from="1568763523259" duration="47000" />
+      <workItem from="1568786771901" duration="852000" />
+      <workItem from="1569305858357" duration="285000" />
+      <workItem from="1569359169767" duration="302000" />
+      <workItem from="1569496970290" duration="2211000" />
+      <workItem from="1569575675524" duration="1418000" />
+      <workItem from="1569785288231" duration="3255000" />
+      <workItem from="1569854492901" duration="2671000" />
+      <workItem from="1570485576208" duration="553000" />
+      <workItem from="1571048227485" duration="4559000" />
+      <workItem from="1571412089089" duration="383000" />
+      <workItem from="1571449731644" duration="435000" />
+      <workItem from="1571895426895" duration="538000" />
+      <workItem from="1572250472790" duration="588000" />
+      <workItem from="1572433625250" duration="461000" />
+      <workItem from="1572887034821" duration="595000" />
+      <workItem from="1572956502566" duration="160000" />
+      <workItem from="1573734200253" duration="988000" />
+      <workItem from="1574929631849" duration="368000" />
+      <workItem from="1575029925520" duration="1803000" />
+      <workItem from="1575969345054" duration="2093000" />
+      <workItem from="1578914787313" duration="394000" />
+      <workItem from="1579370019560" duration="2204000" />
+      <workItem from="1580478564481" duration="872000" />
+    </task>
+    <task id="LOCAL-00001" summary="2.0 ver">
+      <created>1568277328969</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568277328970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="4.0 version: add original target extraction">
+      <created>1571317522994</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571317522994</updated>
+    </task>
+    <task id="LOCAL-00003" summary="4.0 version: add original target extraction">
+      <created>1571318543466</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571318543466</updated>
+    </task>
+    <task id="LOCAL-00004" summary="4.0 version: add original target extraction">
+      <created>1594431660047</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594431660047</updated>
+    </task>
+    <task id="LOCAL-00005" summary="4.11 version: made small changes">
+      <created>1594432105293</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594432105293</updated>
+    </task>
+    <task id="LOCAL-00006" summary="4.13 version: made small changes/correct typos">
+      <created>1599221975902</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599221975902</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2.0 ver" />
+    <MESSAGE value="4.0 version: add original target extraction" />
+    <MESSAGE value="4.1 version: add original target extraction" />
+    <MESSAGE value="4.11 version: made small changes" />
+    <MESSAGE value="4.13 version: made small changes/correct typos" />
+    <option name="LAST_COMMIT_MESSAGE" value="4.13 version: made small changes/correct typos" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1624010914946">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800@0.0.1280.800" timestamp="1624010914946" />
+  </component>
+</project>
